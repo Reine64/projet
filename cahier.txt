@@ -1,0 +1,97 @@
+
+1. Présentation du projet
+
+Nom du projet : Création d’un portfolio en ligne pour IgoTech
+Objectif : Mettre en place un site web permettant à l’agence de présenter ses services, ses projets réalisés et les témoignages de ses clients afin d’attirer de nouveaux prospects.
+
+2. Présentation du client
+
+Nom de l'agence : IgoTech
+Activités :
+
+Création de sites web
+
+Gestion des réseaux sociaux
+
+Création de contenu visuel
+
+Marketing digital
+
+3. Objectifs du site portfolio
+
+Présenter l’agence, ses services et son expertise.
+
+Afficher les projets réalisés avec visuels.
+
+Mettre en avant les témoignages clients.
+
+Faciliter la prise de contact.
+
+Être accessible depuis tous types d’appareils (PC, tablette, mobile).
+
+4. Public cible
+
+Entreprises souhaitant améliorer leur communication digitale.
+
+Particuliers ou TPE cherchant à créer un site web.
+
+Startups à la recherche d’une agence marketing.
+
+5. Contenu et fonctionnalités
+
+Contenu principal :
+
+Page d'accueil avec un aperçu de l'agence.
+
+Section “Nos services”.
+
+Section “Nos réalisations” (projets).
+
+Section “Témoignages clients”.
+
+Section “Contact” avec email ou formulaire.
+
+Fonctionnalités techniques :
+
+Site responsive (adapté aux mobiles/tablettes).
+
+Accès simple à l’information.
+
+Optimisé pour un chargement rapide.
+
+Intégration possible d’un CMS pour la mise à jour du contenu (optionnel).
+
+Dépôt du code sur GitHub.
+
+6. Technologies envisagées
+
+Frontend : HTML, CSS, JavaScript
+
+Backend (optionnel) : Node.js / PHP / Firebase / ou CMS (WordPress)
+
+Hébergement : GitHub Pages, Netlify ou autre hébergeur gratuit
+
+7. Contraintes
+
+Respecter la charte graphique de l’agence (logo, couleurs).
+
+Livraison avant le 14 avril 2025.
+
+Site léger et rapide à charger.
+
+Version responsive obligatoire.
+
+8. Livrables
+
+1. Cahier des charges
+
+
+2. Maquette du site (format image ou Figma)
+
+
+3. Code source du portfolio
+
+
+4. Dépôt GitHub avec README
+
+
